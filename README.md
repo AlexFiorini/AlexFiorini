@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
-<h3 align="center">An enterprising developer from Italy</h3> - 🔭 I’m currently working on **school and personal projects** - 🌱 I’m currently learning **Java and Python** - 📫 How to reach me **fiorini.alex48@gmail.com** <h3 align="left">Connect with me:</h3>
+<h3 align="center">An enterprising developer from Italy</h3> 
+- 🔭 I’m currently working on **school and personal projects** 
+- 🌱 I’m currently learning **Java and Python** 
+- 📫 How to reach me **fiorini.alex48@gmail.com** <h3 align="left">Connect with me:</h3>
 <p align="left">
 <!--STACK OVERFLOW-->
 	<a href="https://stackoverflow.com/users/19370254" target="blank">
