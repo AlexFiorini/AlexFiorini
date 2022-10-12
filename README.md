@@ -18,7 +18,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alexfiorini" alt="alexfiorini" /></a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexfiorini&show_icons=true&locale=en&layout=compact" alt="alexfiorini" /></p><br/>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexfiorini&show_icons=true&locale=en&layout=compact" alt="alexfiorini" /></p><br/><br/><br/><br/><br/><br/><br/>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alexfiorini&show_icons=true&locale=en" alt="alexfiorini" /></p>
 
