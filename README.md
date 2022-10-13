@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
 <h3 align="center">An enterprising developer from Italy</h3>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alexfiorini" alt="alexfiorini" /></a> </p>
+
 - 🔭 I’m currently working on **school and personal projects**
 
 - 🌱 I’m currently learning **Java and Python**
@@ -9,6 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/alex-fiorini-42a669253" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alex-fiorini-42a669253" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/19370254" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19370254" height="30" width="40" /></a>
 <a href="https://instagram.com/alexfiorini_48" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alexfiorini_48" height="30" width="40" /></a>
 </p>
