@@ -23,7 +23,7 @@
 		<img src="https://github-profile-trophy.vercel.app/?username=alexfiorini&column=-1" alt="alexfiorini" />
 	</a>
 </p>
-<p>
+<p align>
 	<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexfiorini&show_icons=true&locale=en&layout=compact" alt="alexfiorini" />
 </p>
 <p>	<img align="left" src="https://github-readme-stats.vercel.app/api?username=alexfiorini&show_icons=true&locale=en" alt="alexfiorini" /></p>
