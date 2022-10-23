@@ -23,12 +23,10 @@
 		<img src="https://github-profile-trophy.vercel.app/?username=alexfiorini&column=-1" alt="alexfiorini" />
 	</a>
 </p>
-<p align>
+<p>
 	<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexfiorini&show_icons=true&locale=en&layout=compact" alt="alexfiorini" />
 </p>
-<br/><br/><br/><br/><br/><br/>
-<p>&nbsp; <img align="left" src="https://github-readme-stats.vercel.app/api?username=alexfiorini&show_icons=true&locale=en" alt="alexfiorini" />
-</p>
+<p>	<img align="left" src="https://github-readme-stats.vercel.app/api?username=alexfiorini&show_icons=true&locale=en" alt="alexfiorini" /></p>
 <br/><br/><br/>
 <p>
 	<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=alexfiorini&" alt="alexfiorini" />
