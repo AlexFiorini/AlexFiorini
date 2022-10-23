@@ -26,14 +26,14 @@
 <p align>
 	<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexfiorini&show_icons=true&locale=en&layout=compact" alt="alexfiorini" />
 </p>
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<p>&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=alexfiorini&show_icons=true&locale=en" alt="alexfiorini" />
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<p>&nbsp; <img align="left" src="https://github-readme-stats.vercel.app/api?username=alexfiorini&show_icons=true&locale=en" alt="alexfiorini" />
 </p>
 <p>
-	<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alexfiorini&" alt="alexfiorini" />
+	<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=alexfiorini&" alt="alexfiorini" />
 </p>
