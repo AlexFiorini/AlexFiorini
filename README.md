@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **school and personal projects**
 
-- 🌱 I’m currently learning **Java and Python**
+- 🌱 I’m currently learning **Java**
 
 - 📫 How to reach me **fiorini.alex48@gmail.com**
 
