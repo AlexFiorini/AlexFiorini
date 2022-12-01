@@ -33,7 +33,7 @@
 <p>
 	<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=alexfiorini&" alt="alexfiorini" />
 </p>
-</br></br></br></br></br></br></br><br/><br/><br/><br/><br/><br/><br/>
+</br></br></br></br></br></br></br><br/><br/><br/><br/><br/>
 <h3 align="left">Wakatime Stats:</h3>
 <p>
 	<img align="left" src="https://raw.githubusercontent.com/AlexFiorini/AlexFiorini/fedfbf1683389ee5a4468e7adc3d9b26ed254898/metrics.plugin.wakatime.svg" alt="alexfiorini"/>
