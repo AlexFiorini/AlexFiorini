@@ -12,7 +12,7 @@
 	<img align="left" src="https://raw.githubusercontent.com/AlexFiorini/AlexFiorini/fedfbf1683389ee5a4468e7adc3d9b26ed254898/metrics.plugin.wakatime.svg" alt="alexfiorini"/>
 </p>
 
-</br></br></br></br></br></br></br></br></br>
+</br></br></br></br></br></br></br></br></br></br>
 
 
 <h3 align="left">Connect with me:</h3>
