@@ -9,7 +9,7 @@
 
 <h3 align="left">Wakatime Stats:</h3>
 <p>
-	[![](metrics.plugin.wakatime.svg)](#)
+	[![introduction](metrics.plugin.wakatime.svg)]
 </p>
 
 </br></br></br></br></br></br></br></br></br></br>
