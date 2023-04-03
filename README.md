@@ -79,6 +79,18 @@
 
 ###
 
+<h4 align="left">Languages:</h4>
+<div align="left">
+  <img src="https://img.icons8.com/office/256/italy.png"/>
+  <img src="https://img.icons8.com/office/256/great-britain.png"/>
+  <img src="https://img.icons8.com/office/256/spain-2.png"/>
+  <img src="https://img.icons8.com/office/256/france.png"/>
+  <img src="https://img.icons8.com/office/256/norway.png"/>
+  <img src="https://img.icons8.com/office/256/portugal.png"/>
+</div>
+
+###
+
 <div align="left">
   <a href="mailto:fiorini.alex48@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
