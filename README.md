@@ -81,12 +81,12 @@
 
 <h4 align="left">Languages:</h4>
 <div align="left">
-  <img src="https://img.icons8.com/office/256/italy.png"/>
-  <img src="https://img.icons8.com/office/256/great-britain.png"/>
-  <img src="https://img.icons8.com/office/256/spain-2.png"/>
-  <img src="https://img.icons8.com/office/256/france.png"/>
-  <img src="https://img.icons8.com/office/256/norway.png"/>
-  <img src="https://img.icons8.com/office/256/portugal.png"/>
+  <img src="https://img.icons8.com/office/256/italy.png" width="40" height="52"/>
+  <img src="https://img.icons8.com/office/256/great-britain.png" width="40" height="52"/>
+  <img src="https://img.icons8.com/office/256/spain-2.png" width="40" height="52"/>
+  <img src="https://img.icons8.com/office/256/france.png" width="40" height="52"/>
+  <img src="https://img.icons8.com/office/256/norway.png" width="40" height="52"/>
+  <img src="https://img.icons8.com/office/256/portugal.png" width="40" height="52"/>
 </div>
 
 ###
