@@ -76,17 +76,29 @@
 ###
 
 <h4 align="left">Languages:</h4>
-<div align="left">
-  <h5 align="left">Native Language:</h5>
-  <img src="https://img.icons8.com/office/256/italy.png" width="40" height="52"/>
-  <h5 align="left">Professional knowledge:</h5>
-  <img src="https://img.icons8.com/office/256/great-britain.png" width="40" height="52"/>
-  <h5 align="left">Basic knowledge:</h5>
-  <img src="https://img.icons8.com/office/256/spain-2.png" width="40" height="52"/>
-  <img src="https://img.icons8.com/office/256/france.png" width="40" height="52"/>
-  <img src="https://img.icons8.com/office/256/norway.png" width="40" height="52"/>
-  <img src="https://img.icons8.com/office/256/portugal.png" width="40" height="52"/>
+
+###
+
+<div>
+    <table>
+      <tr>
+        <td>Native Language:</td>
+        <td><img src="https://img.icons8.com/office/256/italy.png" width="40" height="40"/></td>
+      </tr>
+      <tr>
+        <td>Professional knowledge:</td>
+        <td><img src="https://img.icons8.com/office/256/great-britain.png" width="40" height="40"/></td>
+      </tr>
+      <tr>
+        <td>Basic knowledge:</td>
+        <td><img src="https://img.icons8.com/office/256/spain-2.png" width="40" height="40"/></td>
+        <td><img src="https://img.icons8.com/office/256/france.png" width="40" height="40"/></td>
+        <td><img src="https://img.icons8.com/office/256/norway.png" width="40" height="40"/></td>
+        <td><img src="https://img.icons8.com/office/256/portugal.png" width="40" height="40"/></td>
+      </tr>
+    </table>
 </div>
+
 
 ###
 
