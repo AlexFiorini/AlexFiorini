@@ -2,11 +2,11 @@
 
 ###
 
-<h3 align="center">An enterprising developer from Italy</h3>
+<h2 align="center">An enterprising developer from Italy</h3>
 
 ###
 
-<h4 align="left">Languages:</h4>
+<h3 align="left">Languages:</h4>
 
 ###
 
@@ -33,7 +33,7 @@
 
 ###
 
-<h4 align="left">Programming Languages and Tools:</h4>
+<h3 align="left">Programming Languages and Tools:</h4>
 
 ###
 
@@ -72,7 +72,7 @@
 
 ###
 
-<h4 align="left">Github Stats:</h4>
+<h3 align="left">Github Stats:</h4>
 
 ###
 
@@ -88,13 +88,13 @@
 
 ###
 
-<h4 align="left">Wakatime Stats:</h4>
+<h3 align="left">Wakatime Stats:</h4>
 
 ![My Image](metrics.plugin.wakatime.svg)
 
 ###
 
-<h4 align="left">Connect with me:</h4>
+<h3 align="left">Connect with me:</h4>
 
 ###
 
