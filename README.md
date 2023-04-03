@@ -33,28 +33,6 @@
 
 ###
 
-<h4 align="left">Github Stats:</h4>
-
-###
-
-<img src="https://raw.githubusercontent.com/AlexFiorini/AlexFiorini/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlexFiorini&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AlexFiorini&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=AlexFiorini&locale=en&mode=weekly&theme=default&hide_border=false&border_radius=5&date_format=j M[ Y]&order=3" height="150" alt="streak graph"  />
-</div>
-
-###
-
-<h4 align="left">Wakatime Stats:</h4>
-
-![My Image](metrics.plugin.wakatime.svg)
-
-###
-
 <h4 align="left">Programming Languages and Tools:</h4>
 
 ###
@@ -91,6 +69,28 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" width="52" alt="windows8 logo"  />
 </div>
+
+###
+
+<h4 align="left">Github Stats:</h4>
+
+###
+
+<img src="https://raw.githubusercontent.com/AlexFiorini/AlexFiorini/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AlexFiorini&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AlexFiorini&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=AlexFiorini&locale=en&mode=weekly&theme=default&hide_border=false&border_radius=5&date_format=j M[ Y]&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
+
+<h4 align="left">Wakatime Stats:</h4>
+
+![My Image](metrics.plugin.wakatime.svg)
 
 ###
 
