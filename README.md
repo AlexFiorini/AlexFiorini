@@ -28,7 +28,7 @@
 
 ###
 
-<h4 align="left">Languages and Tools:</h4>
+<h4 align="left">Programming Languages and Tools:</h4>
 
 ###
 
@@ -67,14 +67,6 @@
 
 ###
 
-<div align="center">
-  <a href="https://open.spotify.com/user/z6x5ocln8mcylkymcqxze9u19">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=z6x5ocln8mcylkymcqxze9u19&count=5&unique=1" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
 <h4 align="left">Languages:</h4>
 
 ###
@@ -99,6 +91,14 @@
     </table>
 </div>
 
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/z6x5ocln8mcylkymcqxze9u19">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=z6x5ocln8mcylkymcqxze9u19&count=5&unique=1" alt="Spotify recently played"  />
+  </a>
+</div>
 
 ###
 
