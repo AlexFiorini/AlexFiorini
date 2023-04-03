@@ -10,7 +10,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/AlexFiorini/AlexFiorini/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/AlexFiorini/AlexFiorini/output/snake.svg" alt="Snake animation" />
 
 ###
 
