@@ -22,6 +22,7 @@
 ###
 
 <h4 align="left">Wakatime Stats:</h4>
+![Wakatime Stats](metrics.plugin.wakatime.svg)
 
 ###
 
