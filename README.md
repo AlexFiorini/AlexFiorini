@@ -6,6 +6,29 @@
 
 ###
 
+<div>
+    <table>
+      <tr>
+        <td>Native Language:</td>
+        <td><img src="https://img.icons8.com/office/256/italy.png" width="40" height="40"/></td>
+      </tr>
+      <tr>
+        <td>Professional knowledge:</td>
+        <td><img src="https://img.icons8.com/office/256/great-britain.png" width="40" height="40"/></td>
+      </tr>
+      <tr>
+        <td>Basic knowledge:</td>
+        <td><img src="https://img.icons8.com/office/256/spain-2.png" width="40" height="40"/></td>
+        <td><img src="https://img.icons8.com/office/256/france.png" width="40" height="40"/></td>
+        <td><img src="https://img.icons8.com/office/256/norway.png" width="40" height="40"/></td>
+        <td><img src="https://img.icons8.com/office/256/portugal.png" width="40" height="40"/></td>
+      </tr>
+    </table>
+</div>
+
+
+###
+
 <h4 align="left">Github Stats:</h4>
 
 ###
@@ -70,30 +93,6 @@
 <h4 align="left">Languages:</h4>
 
 ###
-
-<div>
-    <table>
-      <tr>
-        <td>Native Language:</td>
-        <td><img src="https://img.icons8.com/office/256/italy.png" width="40" height="40"/></td>
-      </tr>
-      <tr>
-        <td>Professional knowledge:</td>
-        <td><img src="https://img.icons8.com/office/256/great-britain.png" width="40" height="40"/></td>
-      </tr>
-      <tr>
-        <td>Basic knowledge:</td>
-        <td><img src="https://img.icons8.com/office/256/spain-2.png" width="40" height="40"/></td>
-        <td><img src="https://img.icons8.com/office/256/france.png" width="40" height="40"/></td>
-        <td><img src="https://img.icons8.com/office/256/norway.png" width="40" height="40"/></td>
-        <td><img src="https://img.icons8.com/office/256/portugal.png" width="40" height="40"/></td>
-      </tr>
-    </table>
-</div>
-
-
-###
-
 
 <h4 align="left">Connect with me:</h4>
 
