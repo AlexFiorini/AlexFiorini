@@ -75,19 +75,22 @@
 
 ###
 
-<h4 align="left">Connect with me:</h4>
-
-###
-
 <h4 align="left">Languages:</h4>
 <div align="left">
+  <h5 align="left">Native Language:</h5>
   <img src="https://img.icons8.com/office/256/italy.png" width="40" height="52"/>
+  <h5 align="left">Professional knowledge:</h5>
   <img src="https://img.icons8.com/office/256/great-britain.png" width="40" height="52"/>
+  <h5 align="left">Basic knowledge:</h5>
   <img src="https://img.icons8.com/office/256/spain-2.png" width="40" height="52"/>
   <img src="https://img.icons8.com/office/256/france.png" width="40" height="52"/>
   <img src="https://img.icons8.com/office/256/norway.png" width="40" height="52"/>
   <img src="https://img.icons8.com/office/256/portugal.png" width="40" height="52"/>
 </div>
+
+###
+
+<h4 align="left">Connect with me:</h4>
 
 ###
 
