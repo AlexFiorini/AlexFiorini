@@ -2,11 +2,11 @@
 
 ###
 
-<h2 align="center">An enterprising developer from Italy</h3>
+<h2 align="center">An enterprising developer from Italy</h2>
 
 ###
 
-<h3 align="left">Languages:</h4>
+<h3 align="left">Languages:</h3>
 
 ###
 
@@ -33,7 +33,7 @@
 
 ###
 
-<h3 align="left">Programming Languages and Tools:</h4>
+<h3 align="left">Programming Languages and Tools:</h3>
 
 ###
 
@@ -72,7 +72,7 @@
 
 ###
 
-<h3 align="left">Github Stats:</h4>
+<h3 align="left">Github Stats:</h3>
 
 ###
 
@@ -88,13 +88,13 @@
 
 ###
 
-<h3 align="left">Wakatime Stats:</h4>
+<h3 align="left">Wakatime Stats:</h3>
 
 ![My Image](metrics.plugin.wakatime.svg)
 
 ###
 
-<h3 align="left">Connect with me:</h4>
+<h3 align="left">Connect with me:</h3>
 
 ###
 
@@ -114,6 +114,90 @@
 </div>
 
 ###
+
+<h3 align="left">Countries Visited:</h3>
+
+
+###
+
+<script src="https://www.amcharts.com/lib/3/ammap.js" type="text/javascript"></script>
+<script src="https://www.amcharts.com/lib/3/maps/js/worldHigh.js" type="text/javascript"></script>
+<script src="https://www.amcharts.com/lib/3/themes/dark.js" type="text/javascript"></script>
+<div id="mapdiv" style="width: 1000px; height: 450px;"></div>
+<div style="width: 1000px; font-size: 70%; padding: 5px 0; text-align: center; background-color: #535364; margin-top: 1px; color: #B4B4B7;"><a href="https://www.amcharts.com/visited_countries/" style="color: #B4B4B7;">Create your own visited countries map</a> or check out the <a href="https://www.amcharts.com/" style="color: #B4B4B7;">JavaScript Charts</a>.</div>
+<script type="text/javascript">
+var map = AmCharts.makeChart("mapdiv",{
+type: "map",
+theme: "dark",
+projection: "mercator",
+panEventsEnabled : true,
+backgroundColor : "#535364",
+backgroundAlpha : 1,
+zoomControl: {
+zoomControlEnabled : true
+},
+dataProvider : {
+map : "worldHigh",
+getAreasFromMap : true,
+areas :
+[
+	{
+		"id": "FR",
+		"showAsSelected": true
+	},
+	{
+		"id": "DE",
+		"showAsSelected": true
+	},
+	{
+		"id": "GR",
+		"showAsSelected": true
+	},
+	{
+		"id": "IT",
+		"showAsSelected": true
+	},
+	{
+		"id": "SM",
+		"showAsSelected": true
+	},
+	{
+		"id": "ES",
+		"showAsSelected": true
+	},
+	{
+		"id": "CH",
+		"showAsSelected": true
+	},
+	{
+		"id": "VA",
+		"showAsSelected": true
+	},
+	{
+		"id": "EG",
+		"showAsSelected": true
+	}
+]
+},
+areasSettings : {
+autoZoom : true,
+color : "#B4B4B7",
+colorSolid : "#84ADE9",
+selectedColor : "#84ADE9",
+outlineColor : "#666666",
+rollOverColor : "#9EC2F7",
+rollOverOutlineColor : "#000000"
+}
+});
+</script>
+
+###
+
+
+<h3 align="left">Spotify Recently Played:</h3>
+
+###
+
 
 <div align="center">
   <a href="https://open.spotify.com/user/z6x5ocln8mcylkymcqxze9u19">
