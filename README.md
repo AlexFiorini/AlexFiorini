@@ -120,7 +120,7 @@
 
 ###
 
-https://cmoreira.net/visited-countries-map/?vcstitle=&inacolor=%23e0e0e0&actcolor=%236699cc&vcscountries=EG,FR,DE,GR,IT,MC,ES,CH&
+https://share.skratch.world/7rDVTpAkdt
 
 ###
 
