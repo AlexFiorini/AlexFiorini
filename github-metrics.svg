@@ -37,10 +37,10 @@
 These generated metrics comes with ABSOLUTELY NO
 WARRANTY, to the extent permitted by applicable law.
 
-Last generated: 20 Apr 2023, 17:14:38
+Last generated: 20 Apr 2023, 18:18:12
 </div>
 <div class="stdin"><span class="ps1-path">alexfiorini@metrics</span>:<span class="ps1-location">~</span># whoami</div><div class="stdout"><b>Alex Fiorini</b> registered=3y, uid=3883, gid=1
-  contributed to 24 repositories <b><span style="color:#40c463">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#40c463">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span></b>
+  contributed to 24 repositories <b><span style="color:#40c463">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#40c463">#</span><span style="color:#ebedf0">#</span><span style="color:#40c463">#</span></b>
   followed by <b>1</b> user
 </div>
 <div class="stdin"><span class="ps1-path">alexfiorini@metrics</span>:<span class="ps1-location">~</span># git status</div><div class="stdout"><b>Recent activity</b>
@@ -56,7 +56,7 @@ Last generated: 20 Apr 2023, 17:14:38
   <b>   50</b> repositories starred
   <b>   27</b> repositories watched
 </div>
-<div class="stdin"><span class="ps1-path">alexfiorini@metrics</span>:<span class="ps1-location">~</span># ls -lh github/repositories</div><div class="stdout">Total 25 repositories - 109 MB
+<div class="stdin"><span class="ps1-path">alexfiorini@metrics</span>:<span class="ps1-location">~</span># ls -lh github/repositories</div><div class="stdout">Total 25 repositories - 108 MB
 -r--  <b>    1</b>  stargazer
 -r--  <b>    0</b>  forks
 -r--  <b>   26</b>  watchers
@@ -64,14 +64,14 @@ dr-x  <b>    0</b>  packages
 dr-x         LICENSE
 -r--         └── EPL-2.0
 </div>
-<div class="stdin"><span class="ps1-path">alexfiorini@metrics</span>:<span class="ps1-location">~</span># locale</div><div class="stdout"><b>C++         </b> [########            ] 39.41%
-<b>C#          </b> [#####               ] 23.91%
-<b>JAVA        </b> [###                 ] 13.62%
-<b>C           </b> [##                  ] 8.26 %
-<b>PYTHON      </b> [##                  ] 8.06 %
-<b>JAVASCRIPT  </b> [#                   ] 3.97 %
+<div class="stdin"><span class="ps1-path">alexfiorini@metrics</span>:<span class="ps1-location">~</span># locale</div><div class="stdout"><b>C++         </b> [########            ] 39.24%
+<b>C#          </b> [#####               ] 23.81%
+<b>JAVA        </b> [###                 ] 13.85%
+<b>C           </b> [##                  ] 8.23 %
+<b>PYTHON      </b> [##                  ] 8.02 %
+<b>JAVASCRIPT  </b> [#                   ] 3.95 %
+<b>CSS         </b> [#                   ] 1.48 %
 <b>HTML        </b> [#                   ] 1.41 %
-<b>ASSEMBLY    </b> [#                   ] 1.36 %
 </div>
 <div class="stdin"><span class="ps1-path">alexfiorini@metrics</span>:<span class="ps1-location">~</span># ncal -MB5</div><div class="stdout"><div class="isocalendar">
             <svg version="1.1" xmlns="http://www.w3.org/2000/svg" style="margin-top: -130px;" viewBox="0,0 480,170">
@@ -1023,7 +1023,7 @@ dr-x         LICENSE
 
 
 
-<footer>Connection reset by 97.117.236.74</footer></pre>
+<footer>Connection reset by 53.207.153.236</footer></pre>
 
     </div>
     <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
