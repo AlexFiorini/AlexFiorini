@@ -37,7 +37,7 @@
 These generated metrics comes with ABSOLUTELY NO
 WARRANTY, to the extent permitted by applicable law.
 
-Last generated: 23 May 2023, 15:18:19
+Last generated: 23 May 2023, 16:13:46
 </div>
 <div class="stdin"><span class="ps1-path">alexfiorini@metrics</span>:<span class="ps1-location">~</span># whoami</div><div class="stdout"><b>Alex Fiorini</b> registered=3y, uid=3883, gid=1
   contributed to 24 repositories <b><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span></b>
@@ -56,7 +56,7 @@ Last generated: 23 May 2023, 15:18:19
   <b>   50</b> repositories starred
   <b>   28</b> repositories watched
 </div>
-<div class="stdin"><span class="ps1-path">alexfiorini@metrics</span>:<span class="ps1-location">~</span># ls -lh github/repositories</div><div class="stdout">Total 26 repositories - 112 MB
+<div class="stdin"><span class="ps1-path">alexfiorini@metrics</span>:<span class="ps1-location">~</span># ls -lh github/repositories</div><div class="stdout">Total 26 repositories - 113 MB
 -r--  <b>    2</b>  stargazers
 -r--  <b>    0</b>  forks
 -r--  <b>   27</b>  watchers
@@ -64,12 +64,12 @@ dr-x  <b>    0</b>  packages
 dr-x         LICENSE
 -r--         └── EPL-2.0
 </div>
-<div class="stdin"><span class="ps1-path">alexfiorini@metrics</span>:<span class="ps1-location">~</span># locale</div><div class="stdout"><b>C++         </b> [########            ] 36.81%
-<b>C#          </b> [#####               ] 22.33%
-<b>JAVA        </b> [####                ] 19.15%
-<b>C           </b> [##                  ] 7.72 %
+<div class="stdin"><span class="ps1-path">alexfiorini@metrics</span>:<span class="ps1-location">~</span># locale</div><div class="stdout"><b>C++         </b> [########            ] 36.76%
+<b>C#          </b> [#####               ] 22.31%
+<b>JAVA        </b> [####                ] 19.24%
+<b>C           </b> [##                  ] 7.71 %
 <b>PYTHON      </b> [##                  ] 7.52 %
-<b>JAVASCRIPT  </b> [#                   ] 3.71 %
+<b>JAVASCRIPT  </b> [#                   ] 3.70 %
 <b>CSS         </b> [#                   ] 1.45 %
 <b>HTML        </b> [#                   ] 1.32 %
 </div>
@@ -1013,7 +1013,7 @@ dr-x         LICENSE
 
 
 
-<footer>Connection reset by 172.51.4.248</footer></pre>
+<footer>Connection reset by 72.185.222.185</footer></pre>
 
     </div>
     <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
