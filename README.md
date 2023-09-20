@@ -53,7 +53,7 @@
   </div>
   <div>
     <h2>Backend Development</h2>
-    <img src="https://cdn-icons-png.flaticon.com/512/7506/7506880.png" height="40" width="52" alt="sql logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="sql logo" />
   </div>
   <div>
     <h2>Game Development</h2>
