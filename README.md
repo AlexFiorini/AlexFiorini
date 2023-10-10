@@ -7,7 +7,7 @@
 ###
 
 <h3 align="left">CV / Resume:</h3>
-<div>TBR, Aug 2024</div>
+<div>TBA, Aug 2024</div>
 
 ###
 
