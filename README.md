@@ -6,6 +6,11 @@
 
 ###
 
+<h3 align="left">CV / Resume:</h3>
+<div>TBR, Aug 2024</div>
+
+###
+
 <h3 align="left">Languages:</h3>
 
 ###
