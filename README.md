@@ -66,7 +66,7 @@
   </div>
     <div>
     <h2>Game Tools Development</h2>
-    <a href="https://bakkesmod.com/"><img src="https://avatars.githubusercontent.com/u/50459282?s=280&v=4" height="40" width="52" alt="bakkesmod logo" /></a>
+    <a href="https://bakkesmod.com/"><img src="https://avatars.githubusercontent.com/u/50459282?s=280&v=4" height="40" width="40" alt="bakkesmod logo" /></a>
   </div>
   <div>
     <h2>Tools and Platforms</h2>    
