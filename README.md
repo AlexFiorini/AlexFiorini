@@ -25,13 +25,6 @@
         <td>Professional knowledge:</td>
         <td><img src="https://img.icons8.com/office/256/great-britain.png" width="40" height="40"/></td>
       </tr>
-      <tr>
-        <td>Basic knowledge:</td>
-        <td><img src="https://img.icons8.com/office/256/spain-2.png" width="40" height="40"/></td>
-        <td><img src="https://img.icons8.com/office/256/france.png" width="40" height="40"/></td>
-        <td><img src="https://img.icons8.com/office/256/norway.png" width="40" height="40"/></td>
-        <td><img src="https://img.icons8.com/office/256/portugal.png" width="40" height="40"/></td>
-      </tr>
     </table>
 </div>
 
