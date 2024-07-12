@@ -144,25 +144,3 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"  />
   </a>
 </div>
-
-###
-
-<h3 align="left">Countries Visited:</h3>
-
-###
-
-[![Website Preview](https://github.com/AlexFiorini/AlexFiorini/blob/28607ff3661fbd8dd5179713fcfaaa65faa517de/Screenshot%202023-09-15%20233639.png)](https://share.skratch.world/7rDVTpAkdt/visited)
-
-###
-
-<h3 align="left">Spotify Recently Played:</h3>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/z6x5ocln8mcylkymcqxze9u19">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=z6x5ocln8mcylkymcqxze9u19&count=5&unique=1" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
