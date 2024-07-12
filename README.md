@@ -7,7 +7,7 @@
 ###
 
 <h3 align="left">CV / Resume:</h3>
-<div>TBA, Aug 2024</div>
+<div>https://europa.eu/europass/eportfolio/screen/share/faa93d76-efa0-41b2-ae7d-1d1c0eb9173b?lang=en</div>
 
 ###
 
