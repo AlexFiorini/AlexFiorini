@@ -37,7 +37,7 @@
 These generated metrics comes with ABSOLUTELY NO
 WARRANTY, to the extent permitted by applicable law.
 
-Last generated: 25 Nov 2024, 10:06:23
+Last generated: 25 Nov 2024, 11:06:00
 </div>
 <div class="stdin"><span class="ps1-path">alexfiorini@metrics</span>:<span class="ps1-location">~</span># whoami</div><div class="stdout"><b>Alex Fiorini</b> registered=4y, uid=3883, gid=1
   contributed to 9 repositories <b><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#216e39">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span></b>
@@ -64,13 +64,13 @@ dr-x  <b>    0</b>  packages
 dr-x         LICENSE
 -r--         └── EPL-2.0
 </div>
-<div class="stdin"><span class="ps1-path">alexfiorini@metrics</span>:<span class="ps1-location">~</span># locale</div><div class="stdout"><b>JAVA        </b> [######              ] 27.56%
-<b>CSS         </b> [#####               ] 23.78%
-<b>C++         </b> [###                 ] 14.95%
-<b>PHP         </b> [###                 ] 11.79%
-<b>C#          </b> [##                  ] 8.20 %
-<b>PYTHON      </b> [##                  ] 5.62 %
-<b>JAVASCRIPT  </b> [##                  ] 5.26 %
+<div class="stdin"><span class="ps1-path">alexfiorini@metrics</span>:<span class="ps1-location">~</span># locale</div><div class="stdout"><b>JAVA        </b> [######              ] 27.77%
+<b>CSS         </b> [#####               ] 23.71%
+<b>C++         </b> [###                 ] 14.90%
+<b>PHP         </b> [###                 ] 11.76%
+<b>C#          </b> [##                  ] 8.18 %
+<b>PYTHON      </b> [##                  ] 5.61 %
+<b>JAVASCRIPT  </b> [##                  ] 5.25 %
 <b>C           </b> [#                   ] 2.83 %
 </div>
 <div class="stdin"><span class="ps1-path">alexfiorini@metrics</span>:<span class="ps1-location">~</span># ncal -MB5</div><div class="stdout"><div class="isocalendar">
@@ -1008,7 +1008,7 @@ dr-x         LICENSE
 
 
 
-<footer>Connection reset by 209.99.137.140</footer></pre>
+<footer>Connection reset by 175.101.100.150</footer></pre>
 
     </div>
     <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
